@@ -1,2 +1,2 @@
-# sayrequil.github.io
-Redirect site.
+## Biznar.tk
+Redirector.
