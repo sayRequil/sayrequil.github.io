@@ -1,2 +1,2 @@
-## Biznar.tk
-Redirector.
+## Biznartk
+Redirect your website.
